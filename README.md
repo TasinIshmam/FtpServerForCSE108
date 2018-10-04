@@ -23,3 +23,6 @@ Features of this server include
 5) Monitor acitvities of all clients currently logged in
 
 6) Realtime log of all commands passed, activities and errors with timestamps
+
+![first](https://user-images.githubusercontent.com/29299547/46474023-a5fbcd80-c803-11e8-9486-21e7163cdfc7.png)
+![second](https://user-images.githubusercontent.com/29299547/46474031-a7c59100-c803-11e8-9a6f-3b845a5e445e.png)
