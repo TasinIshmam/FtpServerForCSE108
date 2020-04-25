@@ -1,5 +1,5 @@
 # FtpServerForCSE108
-This FTP Server was designed and implemented by me for my Objected Oriented Programming Language Sessional. The corresponding FTP Client was implemented by my partner Ashiqur Rahman.
+This FTP Server was designed and implemented by me for my Objected Oriented Programming Language Sessional. The corresponding FTP Client was implemented by my partner Ashiqur Rahman. The client repositor can be found [here](https://github.com/ashiqursuperfly/FtpServer-Client).
 
 The backend has been developed in JAVA and the frontend is made with JAVAFX
 
